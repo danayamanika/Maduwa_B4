@@ -36,32 +36,33 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94701643862'] //ur owner number
-global.ownername = "Maduwa_Bot❤️" //ur owner name
-global.ytname = "YT: Technicale pasiya" //ur yt chanel name
-global.socialm = "GitHub: Botpasiya" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94786150888'] //ur owner number
+global.ownername = "Danaya_Bot❤️" //ur owner name
+global.ytname = "YT: Technicale danaya" //ur yt chanel name
+global.socialm = "GitHub: danaya" //ur github or insta name
+global.location = "Sri Lanka, kegalle, atala" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94701643862']
-global.ownertag = '94701643862' //ur tag number
-global.botnumber = '94701643862' //Add your Bot Number For Log
-global.botname = '🔰𝗤𝗨𝗘𝗘𝗡 ᎪᎷᎪ 𝗘𝗗𝗜𝗧𝗜𝗢𝗡🔰' //ur bot name
-global.ig = "https://youtube.com/channel/UCuVG-zNv53sxMl5cjEIDHeA" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtube.com/channel/UCuVG-zNv53sxMl5cjEIDHeA" //ur website to be displayed
-global.sc = 'https://github.com/Botpasiya' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.owner = ['94786150888']
+global.ownertag = '94786150888' //ur tag number
+global.botnumber = '94786150888' //Add your Bot Number For Log
+global.botname = '☸ ᴅᴀɴᴀʏᴀ ʙᴏᴛ ☸' //ur bot name
+global.ig = "https://youtube.com" //your theme url which will be displayed on whatsapp
+global.myweb = "https://youtube.com/" //ur website to be displayed
+global.sc = 'https://github.com' //script link
+global.linkz = 'https://youtube.com
+'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Ama whatsapp Bot" //ur sticker watermark packname
-global.author = "Maduwa_❤️" //ur sticker watermark author
-global.footer = "® 𝗠𝗮𝗱𝘂𝗿𝗮𝗻𝗴𝗮❤️"
+global.packname = "☸ ᴅᴀɴᴀʏᴀ  Bot" //ur sticker watermark packname
+global.author = "☸ ᴅᴀɴᴀʏᴀ_❤️" //ur sticker watermark author
+global.footer = "☸ ᴅᴀɴᴀʏᴀ_ʙʙʜ ❤️"
 global.aliveimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.allmenuimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.welcomeimg= "https://i.imgur.com/5bwPHWO.jpeg"
 global.gbyeimg = "https://i.imgur.com/5bwPHWO.jpeg"
-global.alivemsg = "පුලුවන් කමක් තියෙනව නම්, Whatsapp Bot සම්බන්ධව නොදැනුවත් අයට මේ බව කියාදෙන්න.. වෙලාවකට වැඩ නැතුව යනවා ගණන් ගන්නෙපා \n#@best_m_otivation\n#Maduwa_❤️\n#psychology\n#questions"
-global.owner = "94701643862"
+global.alivemsg = "ඔන්ලයින් ඉන්නෙ බොසා අව්ලක් නැ ශේප් 👍"
+global.owner = "94786150888"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -71,7 +72,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94701643862'] //ADD YOU NUMBER
+global.premium = ['94786150888'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
